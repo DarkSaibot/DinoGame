@@ -5,5 +5,6 @@ The classic google browser game when you are without internet made completely in
 <br>
 <br>
 
-![Screenshot_1](https://github.com/DarkSaibot/TextToAudioConverter/assets/86971123/e51c6d42-ccd0-496d-8805-b59e84edd399)
+![2023-07-14_09-50-19_AdobeExpress](https://github.com/DarkSaibot/DinoGame/assets/86971123/758f9db0-9ec6-43f1-b016-bfd233818e70)
+
 
